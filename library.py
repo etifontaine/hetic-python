@@ -39,3 +39,7 @@ def multiplication():
             for i in range(0, 11):
                 print('{0} * {1} = {2}'.format(x, i, x*i))
         print('\nEt voila !')
+
+# Test list
+x = [element for element in range(20) if element % 2 == 0]
+print(x)

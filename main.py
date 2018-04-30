@@ -1,3 +1,5 @@
 import library
 
-library.countChar()
+# library.countChar()
+
+# library.multiplication()
